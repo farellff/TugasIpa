@@ -1,0 +1,14 @@
+ID_Pasien,Nama,Umur,Keluhan,Diagnosis,Tanggal,Status
+P001,Ahmad Fauzi,20,Batuk pilek dan demam,Influenza,21-06-2026,Antri
+P002,Andi Pratama,34,Nyeri lambung hebat,Gastritis,15-06-2026,Antri
+P003,Siti Rahma,45,Pusing dan leher kaku,Hipertensi,23-06-2026,Antri
+P004,Budi Santoso,12,Gatal-gatal di lengan,Alergi Makanan,28-06-2026,Antri
+P005,Dewi Lestari,28,Sakit gigi berdenyut,Pulpitis,20-06-2026,Antri
+P006,Rian Hidayat,50,Sesak napas setelah kehujanan,Asma Ringan,19-06-2026,Antri
+P007,Citra Kirana,23,Mata merah dan berair,Konjungtivitis,17-06-2026,Antri
+P008,Eko Prasetyo,40,Nyeri sendi lutut,Asam Urat,17-06-2026,Antri
+P009,Fitriani,19,Lemas dan pucat,Anemia,18-06-2026,Antri
+P010,Gilang Dirga,31,Mual dan diare,Gastroenteritis,18-06-2026,Antri
+P011,Guntur Jaya,27,Migrain,Pendarahan Otak,22-06-2026,Antri
+P012,Ryan Reynold,30,Patah Tulang,Retak Tulang Kaki,20-06-2026,Antri
+P013,Reyhan Lawas,40,Demam tinggi,Gejala Tipus,19-06-2026,Antri
