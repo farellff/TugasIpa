@@ -1,17 +1,3 @@
-**Nama :** Farraas Fatimah Azzahra
-
-**NIM :** 25416255201004
-
-**Fakultas/Prodi :** Ilmu Komputer/Teknik Informatika
-
-**Kelas :** A
-
-**Mata Kuliah :** Struktur Data
-
-**Dosen Pengampu :**
-1. Hilda Yulia Novita, S.Kom., M.Kom
-2. Cici Emilia Sukmawati, S.Kom., M.Kom
-
 **Tugas** : Final Project membuat Aplikasi Manajemen Klinik dengan Database Flat File (.CSV) & Queue
 
 # Deskripsi
