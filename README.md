@@ -1,11 +1,11 @@
 ## 📅 Tugas : Final Project membuat Aplikasi Manajemen Klinik dengan Database Flat File (.CSV) & Queue
 
-# Deskripsi
+**Deskripsi**
 Program ini dibuat untuk memenuhi tugas UAS Struktur Data.  
 Program berupa aplikasi manajemen antrean klinik berbasis console/terminal yang mengimplementasikan struktur data Queue (Antrean) dan Hash Map, serta menggunakan file CSV sebagai database permanen.
 
 ## 📂 Struktur File
-# Struktur File
+**Struktur File**
 - `main.py` = Kode program utama Python.
 - `kunjungan.csv` = Database penyimpanan data rekam medis dan status pasien.
 - `Pasien Antrean Management-2026-06-21-162141.png` = Flowchart alur program global.
